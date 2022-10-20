@@ -1,0 +1,87 @@
+{
+  "FlowName": "测试流程",
+  "Events": {
+    "登录": {
+      "page": "https://zfj.wasx.xyz/auth/login",
+      "p_tag": {
+        "XPATH": "//input[@id='email']"
+      },
+      "Actions": {
+        "输入用户名": {
+          "tag": {
+            "XPATH": "//input[@id='email']"
+          },
+          "acts": {
+            "_CLICK": "",
+            "_INPUT": "{email}"
+          }
+        },
+        "输入密码": {
+          "tag": {
+            "ID": "passwd"
+          },
+          "acts": {
+            "_CLICK": "",
+            "_INPUT": "{pwd}"
+          }
+        },
+        "获取标题并赋值给Y_CODE": {
+          "tag": {
+            "XPATH": "//a[contains(@class, 'boardtop-left')]"
+          },
+          "acts": {
+            "_GET_VALUE": "Y_CODE"
+          }
+        },
+        "从网络取值并赋值给指定对象[仅支持JSON对象]": {
+          "tag": {},
+          "acts": {
+            "_GET_FOR_NET": {
+              "URI": "https://www.juhe.cn/loginStatus",
+              "METHOD": "GET",
+              "TIMEOUT": 1000,
+              "PARAM": {
+                "email": "{email}"
+              },
+              "R_PARAM": "RES_URI"
+            }
+          }
+        },
+        "执行脚本": {
+          "tag": {},
+          "acts": {
+            "_SCRIPT": {
+              "_TEXT": {
+                "script": "document.getElementsByClassName(\"boardtop-left\")[0].innerText='{textName}';",
+                "param": {}
+              },
+              "_FILE": {
+                "script": "{script_file}",
+                "param": "_OBJ{sc_p}"
+              }
+            }
+          }
+        },
+        "等待页面加载动作": {
+          "tag": {},
+          "acts": {
+            "_WAIT_TAG": {
+              "WAIT_TAG": {
+                "ID": "email"
+              },
+              "WAIT_TIME": 3
+            }
+          }
+        },
+        "单纯等待事件": {
+          "tag": {},
+          "acts": {
+            "_WAIT": {
+              "WAIT_TIME": 10
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "object": "考试测试wwawa",
+    "sign": "c8d37912a0258dbd75f4db4eff8575ec",
+    "users": [
+        {
+            "isMG": true,
+            "loginType": 1,
+            "name": "凌枫学长",
+            "object": "考试测试wwawa",
+            "phone": "1570076399",
+            "pwd": "1234567",
+            "status": 2
+        },
+        {
+            "isMG": false,
+            "loginType": 1,
+            "name": "丁凌风",
+            "object": "考试测试wwawa",
+            "phone": "15700763932",
+            "pwd": "123456",
+            "status": 2
+        },
+        {
+            "isMG": false,
+            "loginType": 1,
+            "name": "丁凌风3",
+            "object": "考试测试wwawa",
+            "phone": "15700763933",
+            "pwd": "123456",
+            "status": 2
+        },
+        {
+            "isMG": false,
+            "loginType": 2,
+            "name": "丁凌风2",
+            "object": "考试测试wwawa",
+            "phone": "15700763934",
+            "pwd": "123456",
+            "status": 2
+        }
+    ],
+    "waitTotal": 0,
+    "waitUsers": []
+}

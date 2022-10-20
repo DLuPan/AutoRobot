@@ -1,0 +1,71 @@
+{
+    "object": "简单测试考试啦啦啦啦啦",
+    "sign": "72d958118e513af50186d7b0829fdf7b",
+    "users": [
+        {
+            "isMG": true,
+            "loginType": 1,
+            "name": "凌枫学长",
+            "object": "简单测试考试啦啦啦啦啦",
+            "phone": "1570076399",
+            "pwd": "1234567",
+            "status": 2
+        },
+        {
+            "isMG": false,
+            "loginType": 1,
+            "name": "丁凌风",
+            "object": "简单测试考试啦啦啦啦啦",
+            "phone": "15700763932",
+            "pwd": "123456",
+            "status": -1
+        },
+        {
+            "isMG": false,
+            "loginType": 1,
+            "name": "丁凌风3",
+            "object": "简单测试考试啦啦啦啦啦",
+            "phone": "15700763933",
+            "pwd": "123456",
+            "status": -1
+        },
+        {
+            "isMG": false,
+            "loginType": 2,
+            "name": "丁凌风2",
+            "object": "简单测试考试啦啦啦啦啦",
+            "phone": "15700763934",
+            "pwd": "123456",
+            "status": 2
+        },
+        {
+            "isMG": false,
+            "loginType": 1,
+            "name": "丁凌风4",
+            "object": "简单测试考试啦啦啦啦啦",
+            "phone": "15700763935",
+            "pwd": "123456",
+            "status": 2
+        },
+        {
+            "isMG": false,
+            "loginType": 1,
+            "name": "丁凌风5",
+            "object": "简单测试考试啦啦啦啦啦",
+            "phone": "15700763936",
+            "pwd": "123456",
+            "status": 2
+        },
+        {
+            "isMG": false,
+            "loginType": 2,
+            "name": "丁凌风6",
+            "object": "简单测试考试啦啦啦啦啦",
+            "phone": "15700763937",
+            "pwd": "123456",
+            "status": 2
+        }
+    ],
+    "waitTotal": 0,
+    "waitUsers": []
+}

@@ -1,0 +1,424 @@
+{
+    "stems": [
+        {
+            "description": "为保障办公环境安全，我们需遵守哪些规则？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "时刻佩戴工作证。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "中途离开办公座位时应锁定屏幕。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "及时取走打印、复印或传真的文档。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "会议之后擦除白板，清点并带走所有会议资料。"
+                }
+            ]
+        },
+        {
+            "description": "以下对“谁主管谁负责，谁运营谁负责，谁使用谁负责”说法正确的是？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "一旦发生信息安全事件，单位的主管或领导人需负安全责任"
+                },
+                {
+                    "answer": true,
+                    "optionText": "所有员工都需要对自己的电脑的安全负责"
+                },
+                {
+                    "answer": true,
+                    "optionText": "集团负责人需要对整个集团的安全事件负责"
+                },
+                {
+                    "answer": true,
+                    "optionText": "系统运营维护的人员需要对系统及系统中的数据负责"
+                }
+            ]
+        },
+        {
+            "description": "锁定屏幕的快捷键是哪个？",
+            "options": [
+                {
+                    "answer": false,
+                    "optionText": "Ctrl键 + L键"
+                },
+                {
+                    "answer": true,
+                    "optionText": "Windows键 + L键"
+                },
+                {
+                    "answer": false,
+                    "optionText": "Fn键 + L键"
+                },
+                {
+                    "answer": false,
+                    "optionText": "Alt键 + L键"
+                }
+            ]
+        },
+        {
+            "description": "如果平时办公使用的U盘出现了损坏可以如何处理？",
+            "options": [
+                {
+                    "answer": false,
+                    "optionText": "联系第三方维护服务队办公设备进行维修"
+                },
+                {
+                    "answer": false,
+                    "optionText": "直接丢弃"
+                },
+                {
+                    "answer": true,
+                    "optionText": "联系集团信息管理中心相关人员进行处理"
+                },
+                {
+                    "answer": true,
+                    "optionText": "将U盘进行物理破坏后丢弃"
+                }
+            ]
+        },
+        {
+            "description": "以下哪项行为可能造成信息泄露？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "在微博、朋友圈、贴吧等公开发布个人照片、定位等"
+                },
+                {
+                    "answer": true,
+                    "optionText": "提供真实信息用于网络测试"
+                },
+                {
+                    "answer": true,
+                    "optionText": "随意扫描任何二维码"
+                },
+                {
+                    "answer": true,
+                    "optionText": "离开电脑时不进行锁屏"
+                }
+            ]
+        },
+        {
+            "description": "VPN可以应用在以下哪个场景？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "在家移动办公"
+                },
+                {
+                    "answer": true,
+                    "optionText": "出差途中查看邮件"
+                },
+                {
+                    "answer": false,
+                    "optionText": "将公司文档复制到自己个人电脑进行办公"
+                },
+                {
+                    "answer": true,
+                    "optionText": "用于远程连接电脑"
+                }
+            ]
+        },
+        {
+            "description": "以下哪个密码不是弱密码？",
+            "options": [
+                {
+                    "answer": false,
+                    "optionText": "qwerasdf"
+                },
+                {
+                    "answer": false,
+                    "optionText": "1qaz2wsx"
+                },
+                {
+                    "answer": true,
+                    "optionText": "cpt8tPtp"
+                },
+                {
+                    "answer": false,
+                    "optionText": "12345678"
+                }
+            ]
+        },
+        {
+            "description": "以下哪些行为可以减少密码被破解的风险？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "三个月更换一次密码"
+                },
+                {
+                    "answer": false,
+                    "optionText": "不同的账号使用相同的密码"
+                },
+                {
+                    "answer": false,
+                    "optionText": "使用家人的姓名、生日、电话作为密码"
+                },
+                {
+                    "answer": true,
+                    "optionText": "在发生重大的账号密码泄露事件后更改密码"
+                }
+            ]
+        },
+        {
+            "description": "与第三方公司合作时需要注意哪些安全事项？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "第三方人员来访时需进行登记"
+                },
+                {
+                    "answer": true,
+                    "optionText": "第三方人员电脑不可直接接入集团网络"
+                },
+                {
+                    "answer": true,
+                    "optionText": "在职场时需全程陪同第三方人员"
+                },
+                {
+                    "answer": true,
+                    "optionText": "防止第三方人员将敏感信息文件带出职场"
+                }
+            ]
+        },
+        {
+            "description": "以下哪些途径可能存在钓鱼攻击？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "邮件"
+                },
+                {
+                    "answer": true,
+                    "optionText": "公共wifi"
+                },
+                {
+                    "answer": true,
+                    "optionText": "短信"
+                },
+                {
+                    "answer": true,
+                    "optionText": "即时通讯工具"
+                }
+            ]
+        },
+        {
+            "description": "如何有效避免电脑中病毒？",
+            "options": [
+                {
+                    "answer": false,
+                    "optionText": "随意浏览网站"
+                },
+                {
+                    "answer": true,
+                    "optionText": "接收邮件时关注发件人是否正常"
+                },
+                {
+                    "answer": false,
+                    "optionText": "接收邮件时马上查看附件内容"
+                },
+                {
+                    "answer": true,
+                    "optionText": "使用正版软件"
+                }
+            ]
+        },
+        {
+            "description": "根据《宝能集团桌面系统及设备管理规定》，一个部门能申请多少个名额的QQ、微信权限？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "1个"
+                },
+                {
+                    "answer": false,
+                    "optionText": "2个"
+                },
+                {
+                    "answer": false,
+                    "optionText": "3个"
+                },
+                {
+                    "answer": false,
+                    "optionText": "4个"
+                }
+            ]
+        },
+        {
+            "description": "信息管理中心作为桌面系统及设备的管理单位，负有以下哪些职责？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "制定桌面系统及设备的应用、安全、维护的相关管理规定；"
+                },
+                {
+                    "answer": true,
+                    "optionText": "监督、检查、指导计算机桌面实施工作；"
+                },
+                {
+                    "answer": true,
+                    "optionText": "查处私自修改和破坏桌面系统的违规操作或行为；"
+                },
+                {
+                    "answer": true,
+                    "optionText": "实施桌面系统及设备的日常运维、更新和改进工作。"
+                }
+            ]
+        },
+        {
+            "description": "关于员工使用的桌面设备，以下描述错误的是？",
+            "options": [
+                {
+                    "answer": false,
+                    "optionText": "员工使用的桌面设备，必须经集团信息管理中心或各经营单元IT人员进行标准化安装。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "员工使用的桌面设备，无须经集团信息管理中心或各经营单元IT人员进行标准化安装。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "因工作需要，发布清单以外的软件，员工可以自行下载、安装。"
+                },
+                {
+                    "answer": false,
+                    "optionText": "因工作需要，发布清单以外的软件，必须经使用部门领导审批同意后，由信息技术人员负责安装。"
+                }
+            ]
+        },
+        {
+            "description": "因工作需要共享，以下描述错误的是？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "员工可以自行设置共享，并对所有人开放读写权限。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "员工可以自行设置共享，只对指定的用户开放只读权限，其他用户不可访问。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "员工应通知集团信息管理中心进行设置，并对所有人开放读写权限。"
+                },
+                {
+                    "answer": false,
+                    "optionText": "员工应通知集团信息管理中心进行设置，只对指定的用户开放只读权限，其他用户不可访问。"
+                }
+            ]
+        },
+        {
+            "description": "16、根据《宝能集团桌面系统及设备管理规定》，集团有权使用技术手段对员工所有的网络访问记录和桌面设备使用记录进行调查和审计。因此，以下员工使用桌面设备的行为，错误的是？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "员工使用集团网络玩网络游戏、聊天、观看视频及使用BT、迅雷下载等。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "员工可以自己安装使用QQ、微信、钉钉、飞秋、阿里旺旺、ICQ、MSN等网络聊天工具。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "员工可以通过手机热点等方式将集团桌面设备连接到互联网。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "员工可以安装代理上网软件，让未审批通过的人员通过私设的代理访问互联网。"
+                }
+            ]
+        },
+        {
+            "description": "员工因工作需要以集团邮箱对外发送邮件时，被拦截了，可能的原因有？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "未抄送所在部门的负责人。"
+                },
+                {
+                    "answer": false,
+                    "optionText": "未抄送自己。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "邮件内容大小超过40M。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "邮件内容涉嫌包含集团涉密信息。"
+                }
+            ]
+        },
+        {
+            "description": "以下行为，错误的是？",
+            "options": [
+                {
+                    "answer": false,
+                    "optionText": "员工可以在经过集团标准化安装的桌面设备登录邮箱。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "员工可以在私人的桌面设备登录邮箱。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "员工可以使用集团个人邮箱用于注册公共论坛、社区等账号。"
+                },
+                {
+                    "answer": true,
+                    "optionText": "当收到来历不明的电子邮件及其附件，直接打开邮件附件查看内容。"
+                }
+            ]
+        },
+        {
+            "description": "涉及工作的重要文件，不得存放在以下哪些位置？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "C盘目录及其子目录"
+                },
+                {
+                    "answer": false,
+                    "optionText": "D盘目录及其子目录"
+                },
+                {
+                    "answer": false,
+                    "optionText": "E盘目录及其子目录"
+                },
+                {
+                    "answer": true,
+                    "optionText": "桌面目录及其子目录"
+                }
+            ]
+        },
+        {
+            "description": "安全性较高的密码设置须满足以下哪些条件？",
+            "options": [
+                {
+                    "answer": true,
+                    "optionText": "最小长度：8个字符"
+                },
+                {
+                    "answer": true,
+                    "optionText": "包含数字"
+                },
+                {
+                    "answer": true,
+                    "optionText": "包含大写/小写字母"
+                },
+                {
+                    "answer": true,
+                    "optionText": "包含特殊字符"
+                }
+            ]
+        }
+    ]
+}

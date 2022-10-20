@@ -1,0 +1,702 @@
+{
+  "object": "简单测试考试啦啦啦啦啦",
+  "exam_boundId": "788443c2-067b-42b5-9a26-3b7285082a2b",
+  "exam_id": "06ddb05e-1078-4007-9bd8-6f20ae7e3bfb",
+  "stems": [
+    {
+      "description": "身份证号到期日期若为长期有效，则维护为以下哪个日期？（）",
+      "options": [
+        {
+          "optionText": "A.字段“长期”",
+          "answer": false
+        },
+        {
+          "optionText": "B.空白",
+          "answer": false
+        },
+        {
+          "optionText": "C.9999/01/01",
+          "answer": true
+        },
+        {
+          "optionText": "D.9999/12/31",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "更正历史记录可以查看、更新以下哪些数据？（）",
+      "options": [
+        {
+          "optionText": "A.全部数据(包含历史数据)",
+          "answer": false
+        },
+        {
+          "optionText": "B.历史数据",
+          "answer": false
+        },
+        {
+          "optionText": "C.未来数据",
+          "answer": true
+        },
+        {
+          "optionText": "D.全部数据(不包含历史数据)",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "以下关于PS系统中行安全性和角色的描述错误的是？（）",
+      "options": [
+        {
+          "optionText": "A.行安全性是指用户能查看的数据范围，系统中以部门进行组合",
+          "answer": false
+        },
+        {
+          "optionText": "B.角色是指用户能使用的功能页面",
+          "answer": false
+        },
+        {
+          "optionText": "C.HR用户新申请PS系统权限需要同时提报行安全性及角色",
+          "answer": true
+        },
+        {
+          "optionText": "D.PS系统用户权限跟行安全性和角色没有关系",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "【提交入职申请】流程时“家庭成员与社会关系”中有两条父亲的记录，可以在哪个页面删除多余信息？（）",
+      "options": [
+        {
+          "optionText": "A.添加人员",
+          "answer": false
+        },
+        {
+          "optionText": "B.人际关系-家庭成员与社会关系",
+          "answer": true
+        },
+        {
+          "optionText": "C.个人履历",
+          "answer": false
+        },
+        {
+          "optionText": "D.职务数据",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "当需要在页面查看姓名包含“王”的员工，可在姓名的搜索框中输入以下哪种条件？（）",
+      "options": [
+        {
+          "optionText": "A.&王",
+          "answer": false
+        },
+        {
+          "optionText": "B.王%",
+          "answer": false
+        },
+        {
+          "optionText": "C.%王%",
+          "answer": true
+        },
+        {
+          "optionText": "D.王&",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "用CI导入新员工信息后，无法查询员工ID，可以在哪个页面查询？（）",
+      "options": [
+        {
+          "optionText": "A.添加人员",
+          "answer": false
+        },
+        {
+          "optionText": "B.添加主要职务（添加雇佣实例）",
+          "answer": true
+        },
+        {
+          "optionText": "C.添加次要职务",
+          "answer": false
+        },
+        {
+          "optionText": "D.以上选项都可以",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "当需要在搜索结果中仅展示部门“1000002”和“1000003”的员工，可在部门的搜索框中选择“包含于”，并用以下哪种半角符号进行工号分隔？（）",
+      "options": [
+        {
+          "optionText": "A.“-”",
+          "answer": false
+        },
+        {
+          "optionText": "B.“,”",
+          "answer": true
+        },
+        {
+          "optionText": "C.“。”",
+          "answer": false
+        },
+        {
+          "optionText": "D.“~”",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "员工职务数据中“操作”的第一条记录必须为以下哪个数据？（）",
+      "options": [
+        {
+          "optionText": "A.雇用",
+          "answer": false
+        },
+        {
+          "optionText": "B.重新雇用",
+          "answer": true
+        },
+        {
+          "optionText": "C.转正",
+          "answer": false
+        },
+        {
+          "optionText": "D.调动",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "员工只可对以下哪个申请状态的非补卡申请发起销假申请？（）",
+      "options": [
+        {
+          "optionText": "A.审批中",
+          "answer": false
+        },
+        {
+          "optionText": "B.审批通过",
+          "answer": true
+        },
+        {
+          "optionText": "C.审批拒绝",
+          "answer": false
+        },
+        {
+          "optionText": "D.已销假",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "当之前数据维护错误，现在需要修改时，需要触发系统允许“更正历史记录”，可以在以下哪些页面触发？（）",
+      "options": [
+        {
+          "optionText": "A.在当前数据页面，点击“ 更正历史记录”",
+          "answer": false
+        },
+        {
+          "optionText": "B.在搜索页面，勾选“更正历史记录”",
+          "answer": false
+        },
+        {
+          "optionText": "C.以上两种都可以",
+          "answer": true
+        },
+        {
+          "optionText": "D.不允许更改历史记录",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "当员工户口发生变更时，进行以下哪个操作？（）",
+      "options": [
+        {
+          "optionText": "A.点击按钮“包含历史记录”",
+          "answer": false
+        },
+        {
+          "optionText": "B.点击按钮“更新历史记录”",
+          "answer": false
+        },
+        {
+          "optionText": "C.点击按钮“+”",
+          "answer": true
+        },
+        {
+          "optionText": "D.点击按钮“-”",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "维护员工的兼岗数据，可以在哪个页面操作？（）",
+      "options": [
+        {
+          "optionText": "A.添加人员",
+          "answer": false
+        },
+        {
+          "optionText": "B.分配次要职务",
+          "answer": false
+        },
+        {
+          "optionText": "C.修改人员",
+          "answer": true
+        },
+        {
+          "optionText": "D.合同信息管理",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "一般情况下，在【添加人员】页面录入员工信息后，在【修改人员】及【职务数据】页面无法查到员工的信息，可以在哪个页面查询？（）",
+      "options": [
+        {
+          "optionText": "A.添加人员",
+          "answer": false
+        },
+        {
+          "optionText": "B.添加主要职务（添加雇佣实例）",
+          "answer": true
+        },
+        {
+          "optionText": "C.添加次要职务",
+          "answer": false
+        },
+        {
+          "optionText": "D.以上选项都可以",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "若员工同一天有多条记录，例如当天入职当天离职，当天晋升当天调薪，则可添加两条记录，手动将第二条记录的“生效序号”修改为以下哪个？（）",
+      "options": [
+        {
+          "optionText": "A.“0”",
+          "answer": false
+        },
+        {
+          "optionText": "B.“1”",
+          "answer": false
+        },
+        {
+          "optionText": "C.“2”",
+          "answer": true
+        },
+        {
+          "optionText": "D.“3”",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "【提交入职申请】流程被退回修改，不涉及薪酬数据修改，修改后再次提交，该点击以下哪个按钮？（）",
+      "options": [
+        {
+          "optionText": "A.重新提交",
+          "answer": false
+        },
+        {
+          "optionText": "B.提交",
+          "answer": false
+        },
+        {
+          "optionText": "C.保存",
+          "answer": true
+        },
+        {
+          "optionText": "D.以上选项都可以",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "员工A在系统中有1个主岗，2个兼岗，在职务数据页面，员工主岗的“员工记录”是哪个数字？（）",
+      "options": [
+        {
+          "optionText": "A.0",
+          "answer": false
+        },
+        {
+          "optionText": "B.1",
+          "answer": true
+        },
+        {
+          "optionText": "C.2",
+          "answer": false
+        },
+        {
+          "optionText": "D.3",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "当需要在页面查看姓“王”的员工，可在姓名的搜索框中输入以下哪种条件？（）",
+      "options": [
+        {
+          "optionText": "A.&王",
+          "answer": false
+        },
+        {
+          "optionText": "B.王%",
+          "answer": false
+        },
+        {
+          "optionText": "C.%王",
+          "answer": true
+        },
+        {
+          "optionText": "D.王&",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "当需要为员工新增一条调动记录时，需要在职务数据的页面如何操作？（）",
+      "options": [
+        {
+          "optionText": "A.点击按钮“包含历史记录”",
+          "answer": false
+        },
+        {
+          "optionText": "B.点击按钮“更正历史记录”",
+          "answer": true
+        },
+        {
+          "optionText": "C.点击按钮“+”",
+          "answer": false
+        },
+        {
+          "optionText": "D.点击按钮“-”",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "新员工入职后，用CI导入员工的合同信息，应该选择如下哪种操作？（）",
+      "options": [
+        {
+          "optionText": "A.CREATE",
+          "answer": false
+        },
+        {
+          "optionText": "B.UPDATE",
+          "answer": false
+        },
+        {
+          "optionText": "C.UPDATEDATA",
+          "answer": true
+        },
+        {
+          "optionText": "D.以上选项都可以",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "已经填写定薪必备信息并保存，但在【提交入职申请】时提示“薪酬数据异常缺失，以下哪些原因会导致这种情况发生？（）",
+      "options": [
+        {
+          "optionText": "A.员工数据不存在",
+          "answer": false
+        },
+        {
+          "optionText": "B.员工信息有误",
+          "answer": false
+        },
+        {
+          "optionText": "C.定薪结果未确认",
+          "answer": true
+        },
+        {
+          "optionText": "D.系统故障",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "若员工教育经历存在第二专业，进行以下哪个操作？（）",
+      "options": [
+        {
+          "optionText": "A.点击按钮“包含历史记录”",
+          "answer": false
+        },
+        {
+          "optionText": "B.点击按钮“更新历史记录”",
+          "answer": false
+        },
+        {
+          "optionText": "C.点击按钮“+”",
+          "answer": true
+        },
+        {
+          "optionText": "D.点击按钮“-”",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "招聘负责人离职了，交接人无法在PS系统查到离职人员所负责的候选人，该如何操作？（）",
+      "options": [
+        {
+          "optionText": "A.在填写定薪必备信息界面将招聘负责人改成交接人",
+          "answer": false
+        },
+        {
+          "optionText": "B.登录离职人员账号",
+          "answer": false
+        },
+        {
+          "optionText": "C.重新录入候选人信息",
+          "answer": false
+        },
+        {
+          "optionText": "D.以上选项都可以",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "description": "【提交入职申请】流程因婚姻状况为“未知”被驳回，可以在哪个页面修改婚姻状况？（）",
+      "options": [
+        {
+          "optionText": "A.添加人员",
+          "answer": false
+        },
+        {
+          "optionText": "B.修改人员",
+          "answer": true
+        },
+        {
+          "optionText": "C.个人履历",
+          "answer": false
+        },
+        {
+          "optionText": "D.职务数据",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "若录入人员为候选人，请选择所属板块以下哪个职位？（）",
+      "options": [
+        {
+          "optionText": "A.实际职位",
+          "answer": false
+        },
+        {
+          "optionText": "B.任意职位",
+          "answer": false
+        },
+        {
+          "optionText": "C.不选择职位",
+          "answer": true
+        },
+        {
+          "optionText": "D.候选人职位",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "若在添加人员页面维护完员工数据后，发现无法在紧急情况联系人页面搜索到此员工，则需要在以下哪个页面进行操作？（）",
+      "options": [
+        {
+          "optionText": "A.职务数据",
+          "answer": false
+        },
+        {
+          "optionText": "B.添加主要职务(添加雇佣实例)",
+          "answer": false
+        },
+        {
+          "optionText": "C.人员概要信息",
+          "answer": true
+        },
+        {
+          "optionText": "D.修改人员",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "大易系统已维护员工的工作经历，以下哪些原因会导致在【提交入职申请】时，工作经历信息空白？（）",
+      "options": [
+        {
+          "optionText": "A.员工工作经历中的起始时间出现重叠",
+          "answer": false
+        },
+        {
+          "optionText": "B.工资填写“-”",
+          "answer": true
+        },
+        {
+          "optionText": "C.职务名称超过规定的字符",
+          "answer": true
+        },
+        {
+          "optionText": "D.未填写工作证明人",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "description": "员工年假的生成与PS系统中哪个日期字段有关？（）",
+      "options": [
+        {
+          "optionText": "A.入职日期",
+          "answer": true
+        },
+        {
+          "optionText": "B.试用期结束日期",
+          "answer": true
+        },
+        {
+          "optionText": "C.职业生涯开始日期",
+          "answer": true
+        },
+        {
+          "optionText": "D.出生日期",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "运行报表时，选择现有运行控制ID，或创建一个新值，可以使用以下哪些字符？（）",
+      "options": [
+        {
+          "optionText": "A.中文",
+          "answer": false
+        },
+        {
+          "optionText": "B.数字",
+          "answer": true
+        },
+        {
+          "optionText": "C.字母",
+          "answer": true
+        },
+        {
+          "optionText": "D.特殊符号",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "description": "新增部门之后，没有在对应的部门树上添加该部门，会导致什么结果？（）",
+      "options": [
+        {
+          "optionText": "A.无法在组织架构中看到该部门",
+          "answer": false
+        },
+        {
+          "optionText": "B.无法查看该部门的职位",
+          "answer": false
+        },
+        {
+          "optionText": "C.无法查看该部门的员工",
+          "answer": true
+        },
+        {
+          "optionText": "D.无法操作该部门的人员数据",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "description": "包含历史记录可以查看、更新以下哪个数据？（）",
+      "options": [
+        {
+          "optionText": "A.当前数据",
+          "answer": false
+        },
+        {
+          "optionText": "B.历史数据",
+          "answer": false
+        },
+        {
+          "optionText": "C.未来数据",
+          "answer": false
+        },
+        {
+          "optionText": "D.不能查看数据",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "description": "只要开通了PS系统的权限就可以用CI模板导入数据。（）",
+      "options": [
+        {
+          "optionText": "正确",
+          "answer": true
+        },
+        {
+          "optionText": "错误",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "description": "CI导入模板的密码和域账号密码是同步的。（）",
+      "options": [
+        {
+          "optionText": "正确",
+          "answer": false
+        },
+        {
+          "optionText": "错误",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "description": "XX部门不存在了，直接从部门树上删除即可。（）",
+      "options": [
+        {
+          "optionText": "正确",
+          "answer": false
+        },
+        {
+          "optionText": "错误",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "description": "【填写定薪必备信息页面】的招聘负责人不是自己，部门也不在自己可查看范围内，可以用自己的账号【提交入职申请】。（）",
+      "options": [
+        {
+          "optionText": "正确",
+          "answer": false
+        },
+        {
+          "optionText": "错误",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "description": "个人邮箱可以设置为首选邮箱。（）",
+      "options": [
+        {
+          "optionText": "正确",
+          "answer": false
+        },
+        {
+          "optionText": "错误",
+          "answer": true
+        }
+      ]
+    }
+  ]
+}

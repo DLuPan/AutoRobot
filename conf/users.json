@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "loginType": 1,
+      "name": "凌枫学长",
+      "pwd": "1234567",
+      "phone": "1570076399",
+      "flow": "Smart365.json",
+      "isMG": true
+    },
+    {
+      "loginType": 1,
+      "name": "丁鲁攀",
+      "pwd": "123456",
+      "phone": "15700763932",
+      "flow": "Smart365.json",
+      "isMG": false
+    }
+  ]
+}

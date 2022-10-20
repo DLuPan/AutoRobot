@@ -1,0 +1,6 @@
+{
+  "selenium_hub_uri": "http://localhost:4444",
+  "getSmartCode_uri_global": "http://127.0.0.1:12580/getSmartCode",
+  "setSmartCode_uri_global": "http://127.0.0.1:12580/setSmartCode",
+  "webHook_uri_global": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=b5d838a7-ffc7-4c5a-84d7-8bbcd4bf08f3"
+}

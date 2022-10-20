@@ -1,0 +1,7 @@
+{
+  "text": "课代表的配置表",
+  "SERVER_IP": "10.91.18.32",
+  "SERVER_USER": "tomcat",
+  "SERVER_PWD": "zugou@1234",
+  "SERVER_RES_PATH": "/home/tomcat/365Test"
+}
