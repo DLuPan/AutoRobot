@@ -5,15 +5,14 @@ import logging
 import os
 import time
 from datetime import datetime
-from typing import List, Dict
+from typing import Dict, List
 
 import requests
 
 import SeleniumHubServer
 import Smart365Common
 from engine import SimpleEngine
-from simpleutil import SimpleFile
-from simpleutil import SimpleLock, SimpleUtil
+from simpleutil import SimpleFile, SimpleLock, SimpleUtil
 
 # 初始化日志配置
 log = logging.getLogger(__file__)

@@ -3,7 +3,7 @@
 import json
 import logging
 import time
-from typing import List, Dict
+from typing import Dict, List
 
 import requests
 from selenium import webdriver

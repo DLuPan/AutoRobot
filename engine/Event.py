@@ -1,16 +1,15 @@
 # --encoding:utf-8--
 # 简单解析引擎时间
+import logging
+from typing import Dict, List
+
 from selenium import webdriver
+from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait as Wait
-from selenium.webdriver.remote.webelement import WebElement
-from typing import List, Dict
 
-from engine import Action
-from engine import Common
-from simpleutil import LocalLog
-from simpleutil import SimpleUtil
-import logging
+from engine import Action, Common
+from simpleutil import LocalLog, SimpleUtil
 
 # 初始化日志配置
 LocalLog.initLogConf()
@@ -91,7 +90,7 @@ class Event(object):
         for type, value in self.p_tag.items():
             Wait(self.driver, timeout).until(EC.presence_of_all_elements_located((Common.getTagType(type), value)))
 
-    def parseElement(self, tag: Dict) -> [WebElement]:
+    def parseElement(self, tag: Dict) -> List[WebElement]:
         """
         解析tag
         :param tag:

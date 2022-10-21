@@ -1,9 +1,11 @@
 # --encoding:utf-8--
 # 提供基础测试
-import os
-from simpleutil import SimpleUtil
-import requests
 import json
+import os
+
+import requests
+
+from simpleutil import SimpleUtil
 
 if __name__ == '__main__':
     _start = SimpleUtil.second()

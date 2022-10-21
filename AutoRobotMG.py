@@ -1,13 +1,16 @@
 # --encoding:utf-8--
-# 提供了Smart365管理配置
-import sys, getopt, os
+# 自动机器人的启动入口，用于启动服务管理
+import getopt
+import os
+import sys
+
+import ExamServer
+import NetServer
 import Smart365Common
 from simpleutil import LocalLog
-import NetServer
-import ExamServer
 
 if __name__ == '__main__':
-    # Smart365MG.py 启动工具,以及初始化工具，gogogo
+    # AutoRobotMG.py 启动工具,以及初始化工具，gogogo
     # 启动工具：
     #   Net:启动网络服务【用于接收用户提交的验证码】
     #   Exam:启动考试服务

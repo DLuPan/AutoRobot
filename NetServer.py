@@ -1,15 +1,13 @@
 # --encoding:utf-8--
 # 提供365简单的网络服务
+import json
 import logging
 import os
 import time
-import json
-from http.server import HTTPServer, BaseHTTPRequestHandler
+from http.server import BaseHTTPRequestHandler, HTTPServer
 
 import Smart365Common
-from simpleutil import SimpleFile
-from simpleutil import SimpleLock
-from simpleutil import SimpleUtil
+from simpleutil import SimpleFile, SimpleLock, SimpleUtil
 
 # 初始化日志配置
 log = logging.getLogger(__file__)
